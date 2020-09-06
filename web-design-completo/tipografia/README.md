@@ -43,3 +43,11 @@ Ex: **Salamander**,**Lucida Calligraphy** e **Brush script**
 Estilizadas, utilizadas como referência ao período medieval. Boas para compor títulos.
 
 Ex: **New Rocker**,**Lucida Blackletter** e **Cabazon**
+
+## Display
+
+![Image Display](https://image.prntscr.com/image/XZ5aY6C5QuqzfFQ_WYo5jQ.png)
+
+Estilizadas, não existe padrão definido, são criadas de acordo com o projeto. Cada uma possui personalidade própria. Boas para compor títulos.
+
+Ex: **Phosphate**,**Curlz MT** e **Hobo**
