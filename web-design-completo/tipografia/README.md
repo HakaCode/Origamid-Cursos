@@ -11,3 +11,11 @@
 São neutras, funcionam bem em corpo de texto, usadas frequentementes na web para compor o texto.
 
 Ex: **Helvetica**,**Arial** e **Avenir***
+
+## Serifadas
+
+![Image serifadas](https://image.prntscr.com/image/ty3mjXrwTnaucMaRX7lciw.png)
+
+São clássicas, funcionam bem em corpo de texto, usadas frequentemente em livros para compor o texto.
+
+Ex: **Garamond**,**Georgia** e **Baskerville***
