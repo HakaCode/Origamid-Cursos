@@ -35,3 +35,11 @@ Ex: **Rockwell**,**Bitter** e **Kreon**
 Suaves, parecem ter sido feitas a mão e com um pincel. Funcionam bem em títulos.
 
 Ex: **Salamander**,**Lucida Calligraphy** e **Brush script**
+
+## Góticas / Blackletter
+
+![Image Blackletter](https://image.prntscr.com/image/lKqrd6YoSBmLm9cI-OR4yA.png)
+
+Estilizadas, utilizadas como referência ao período medieval. Boas para compor títulos.
+
+Ex: **New Rocker**,**Lucida Blackletter** e **Cabazon**
