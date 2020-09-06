@@ -19,3 +19,11 @@ Ex: **Helvetica**,**Arial** e **Avenir**
 São clássicas, funcionam bem em corpo de texto, usadas frequentemente em livros para compor o texto.
 
 Ex: **Garamond**,**Georgia** e **Baskerville**
+
+## Serifas Grossas
+
+![Image serifa Grossas](https://image.prntscr.com/image/MUjK3hyJTyuyB31jpg-z5Q.png)
+
+Encorpordas, funcionam bem em títulos.
+
+Ex: **Rockwell**,**Bitter** e **Kreon**
