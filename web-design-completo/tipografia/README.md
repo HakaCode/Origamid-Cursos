@@ -27,3 +27,11 @@ Ex: **Garamond**,**Georgia** e **Baskerville**
 Encorpordas, funcionam bem em títulos.
 
 Ex: **Rockwell**,**Bitter** e **Kreon**
+
+## Script
+
+![Image Script](https://image.prntscr.com/image/kPtoM67PToSj6JMUvde4ug.png)
+
+Suaves, parecem ter sido feitas a mão e com um pincel. Funcionam bem em títulos.
+
+Ex: **Salamander**,**Lucida Calligraphy** e **Brush script**
