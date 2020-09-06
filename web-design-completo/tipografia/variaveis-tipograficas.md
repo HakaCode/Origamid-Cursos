@@ -11,3 +11,6 @@
   - Máximo de 10/14 palavras por linha.
 
 > ***OBS:*** Indicações feitas para corpo de texto utilizando tipografias como ***Helvetica*** e ***Arial***
+
+**(1,5 X 14px = 21px)**
+![Image da Altura da Linha](https://image.prntscr.com/image/N_ehhSyAS-KSMRZOLdtZqg.png)
