@@ -51,3 +51,9 @@ Ex: **New Rocker**,**Lucida Blackletter** e **Cabazon**
 Estilizadas, não existe padrão definido, são criadas de acordo com o projeto. Cada uma possui personalidade própria. Boas para compor títulos.
 
 Ex: **Phosphate**,**Curlz MT** e **Hobo**
+
+### Referência
+
+- https://fonts.adobe.com/fonts
+- https://fonts.google.com/
+- https://www.fontsquirrel.com/
